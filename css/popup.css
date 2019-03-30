@@ -1,0 +1,15 @@
+h1 {
+    color: greenyellow;
+}
+h1 ~ p {
+    color: yellow;
+}
+h2 ~ p {
+    color: darkblue;
+}    
+h2 {
+    color: lime;
+}
+ul {
+    color: black;
+}
